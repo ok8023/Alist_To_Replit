@@ -1,6 +1,6 @@
 echo "Alist_To_Replit 一键搭建脚本"
 echo "脚本作者：ok8023"
-echo "开源地址：https://codeberg.org/ok8023/Alist_To_Replit/"
+echo "开源地址：https://github.com/ok8023/Alist_To_Replit/"
 nix-env -iA nixpkgs.wget
 mkdir build
 cd build
