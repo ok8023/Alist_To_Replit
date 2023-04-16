@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://alist.nn.ci"><img height="100px" alt="logo" src="https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg"/></a>
+<a href="https://alist.nn.ci"><img height="100px" alt="logo" src="https://ghproxy.com/https://raw.githubusercontent.com/ok8023/Alist_To_Replit/main/files/logo.svg"/></a>
 </p>
 
 <p align="center"><b>Alist</b>部署于Replit，一个支持多种存储方式的文件列表程序，由Gin和Solidjs驱动。</p>
