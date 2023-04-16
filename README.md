@@ -13,7 +13,7 @@ Replit环境选择`Bash` 或 `Blank Repl`
 在Shell运行以下脚本
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/ok8023/Alist_To_Replit/main/files/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/ok8023/Alist_To_Replit/main/install.sh)
 ```
 
 查询用户名及密码运行下面命令
