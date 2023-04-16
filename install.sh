@@ -4,11 +4,11 @@ echo "开源地址：https://codeberg.org/ok8023/Alist_To_Replit/"
 nix-env -iA nixpkgs.wget
 mkdir build
 cd build
-wget -O .replit https://codeberg.org/ok8023/Alist_To_Replit/raw/branch/main/files/.replit
-wget -O replit.nix https://codeberg.org/ok8023/Alist_To_Replit/raw/branch/main/files/replit.nix
+wget -O .replit https://ghproxy.com/https://raw.githubusercontent.com/ok8023/Alist_To_Replit/main/files/.replit
+wget -O replit.nix https://ghproxy.com/https://raw.githubusercontent.com/ok8023/Alist_To_Replit/main/files/replit.nix
 cd ..
-wget -O main.sh https://codeberg.org/ok8023/Alist_To_Replit/raw/branch/main/files/main.sh
-wget -O sx https://codeberg.org/ok8023/Alist_To_Replit/raw/branch/main/files/alist3.15.0
+wget -O main.sh https://ghproxy.com/https://raw.githubusercontent.com/ok8023/Alist_To_Replit/main/files/main.sh
+wget -O sx https://ghproxy.com/https://raw.githubusercontent.com/ok8023/Alist_To_Replit/main/files/alist3.15.0
 cp -r build/.replit . && cp -r build/replit.nix .
 echo "恭喜项目搭建完成"
 echo "点击Run立即运行项目"
